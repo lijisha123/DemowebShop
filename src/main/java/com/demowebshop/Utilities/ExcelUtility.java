@@ -15,7 +15,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import com.demowebshop.constants.Constants;
 
-public class ExcelUtility {
+public class ExcelUtility{
 	public static XSSFWorkbook wb;
     public static XSSFSheet sh;
     public static FileInputStream f;
